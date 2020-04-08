@@ -1,0 +1,298 @@
+/***************************/
+/* Written by Herve Verjus */
+/***************************/
+
+/******************************************************/
+/*  Common part                                       */
+/******************************************************/
+
+.center {
+	text-align: center;
+}
+
+a:link {
+
+	color: #FD7500;
+	text-decoration: none;
+}
+a:visited {
+
+    	color: #1D5C8D;
+	text-decoration: none;
+}
+a:hover {
+    color: #AB0600;
+    text-decoration: none;
+
+}
+
+lu {
+	margin-top: 8px;
+	padding-bottom: 29px;
+}
+
+lu.bold {
+
+	list-style-type:disc;
+	list-style-position:inside;
+	padding-left: 10px;
+	padding-top: 2px;
+	color: #272727;
+	font-weight: bold;
+}
+
+lu.italic {
+
+	list-style-type:disc;
+	list-style-position:inside;
+	padding-left: 10px;
+	padding-top: 2px;
+	color: #272727;
+	font-style: italic;
+}
+
+li {
+
+	list-style-type:disc;
+	list-style-position:inside;
+	padding-left: 10px;
+	padding-top: 2px;
+	color: #272727;
+}
+
+h1 {
+	padding-top: 10px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12pt;
+	text-align: justify;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+p {
+	padding-top: 5px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 10pt;
+	text-align: justify;
+}
+
+p.img {
+	padding-top: 5px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 9pt;
+	text-align: center;
+	font-style: italic;
+}
+
+/******************************************************/
+/*  Page TOP                                          */
+/******************************************************/
+
+#header {
+	float: left;
+
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	heigth: 200px;
+	border-bottom: 1px solid #FD7500;
+	width: 850px;
+}
+
+#personalTitle {
+	float: left;
+	margin-left: 50px;
+	margin-top: 15px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size:8pt;
+	text-align: left;
+	valign: center;
+}
+
+#personalPhoto {
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-align: left;
+}
+
+#headerSiteTitle {
+	float: left;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 18pt;
+	margin-left: 5px;
+	width: 300px;
+	/* font-weight: 500; */
+	letter-spacing: 2px;
+	margin-bottom: 2px;
+}
+
+
+
+#headerPageTitle {
+	font-size: 10pt;
+	font-weight: 500;
+	color: #777777;
+	letter-spacing: 7px;
+	margin-left: 8px;
+	padding-left: 48px;
+	border-left: 1px solid #CCCCCC
+}
+
+/* HEADER - end*/
+
+/******************************************************/
+/*  Page MIDDLE                                       */
+/******************************************************/
+
+
+  .main { color: rgb(51, 102, 102);
+    font-size: small;
+    font-family: Arial,Helvetica,sans-serif;
+    }
+
+ #main { color: rgb(255, 204, 0);
+    font-family: Arial,Helvetica,sans-serif;
+    }
+
+
+/* MIDDLE */
+/* middle contains both menu and pageContent elements */
+
+#middle {
+	margin-top: 2px;
+	margin-left: 8px;
+	margin-bottom: 5px;
+	width: 850px;
+}
+
+/* MENU */
+
+
+#menu {
+	float: left;
+	padding-top: 5px;
+	margin-left: 0px;
+	margin-right: 32px;
+	margin-top: 2px;
+	margin-bottom: 16px;
+	width: 142px;
+
+}
+
+#menu a:link {
+	color: #FD7500;
+	text-decoration: none;
+}
+
+#menu a:visited {
+	color: #FD7500;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #AB0600;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#navigationTitle {
+	font-family: Arial,Helvetica,sans-serif;
+	background-color: #FD7500;
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight:bold;
+	color: #FFFFFF;
+	font-size: 10pt;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-left: 1px solid #FD7500;
+	border-right: 1px solid #FD7500;
+}
+
+
+#menuItem {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 8pt;
+	text-align: left;
+	color: #FD7500;
+	padding: 2px;
+	border-left: 1px solid #FD7500;
+	border-right: 1px solid #FD7500;
+}
+
+#navigationBottom {
+
+	border-bottom: 1px solid #FD7500;
+	
+}
+
+/* Page Content */
+
+#pageContent {
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 2px;
+	width: 645px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 10pt;
+	text-align: justify;
+	color: #OOOOOO;
+}
+
+#affiliation {
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 640px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 9pt;
+	text-align: justify;
+	color: #OOOOOO;
+}
+
+#address {
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+	width: 300px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 9pt;
+	text-align: justify;
+	color: #OOOOOO;
+}
+
+#logo {
+	float: left;
+	margin-left: 5px;
+	padding-top: 10px;
+	width: 200px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 9pt;
+	text-align: center;
+	color: #OOOOOO;
+}
+
+/******************************************************/
+/*  Page BOTTOM                                       */
+/******************************************************/
+
+#footer {
+	float: left;
+
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 5px;
+	margin-bottom: 8px;
+	heigth: 50px;
+	border-top: 1px solid #FD7500;
+	width: 850px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 8pt;
+	font-weight: italic;
+	text-align: justify;
+	color: #A3A3A3;
+}
