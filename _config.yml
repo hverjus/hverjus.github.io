@@ -21,7 +21,7 @@
 title: Hervé Verjus
 email: herve.verjus@univ-smb.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Professional web site.
+  Professional web site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: herveverjus

@@ -13,6 +13,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
+  font-size: 250%; // HVE
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -30,6 +31,7 @@
 
   .nav-trigger {
       display: none;
+      color: #14137a;
   }
 
   .menu-icon {
@@ -37,7 +39,8 @@
   }
 
   .page-link {
-    color: $text-color;
+    //color: $text-color;
+    color: #1413bb;  // HVE
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one

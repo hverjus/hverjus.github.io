@@ -64,7 +64,7 @@ This project's goal is about extending our software architecture approach and en
 
 Cook is a ANR 2006 three years project funded by [GIP-ANR](http://www.gip-anr.fr/) (JC05 42872).
 
-The project is focusing on architecture refactoring. A one week and enthousiastic Moose environment tutorial has been organized and animated by [Tudor Girba](http://www.iam.unibe.ch/%7Egirba/). This project partially supports [Nimrod](./software.php) environment.
+The project is focusing on architecture refactoring. A one week and enthousiastic Moose environment tutorial has been organized and animated by [Tudor Girba](http://www.iam.unibe.ch/%7Egirba/). This project partially supports [Nimrod](/software) environment.
 
 ### ArchWare (2001-2005)
 
