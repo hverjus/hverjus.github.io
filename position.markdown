@@ -5,7 +5,7 @@ permalink: /position/
 ---
 
 E-mail: [herve.verjus@univ-smb.fr](mailto:herve.verjus@univ-smb.fr)  
-Web site: [https://hverjus.github.com/](http://herveverjus.co.nf/)
+Web site: [https://hverjus.github.io/](https://hverjus.github.io/)
 
 **LISTIC (_Laboratoire d'Informatique, Systèmes, Traitement de l'Information et de la Connaissance_)**
 
