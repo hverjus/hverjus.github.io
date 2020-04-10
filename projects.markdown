@@ -1,10 +1,14 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 ---
 
 I am (and was) involved in several projects:
+
+### Smart Tourism (USMB-UPPA / 2019-2020)
+
+This is the second phase of the previous Tourism Itennerary project.
 
 ### CIME (Interreg / 2018-2022)
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 ---
 
@@ -32,7 +32,7 @@ Some teaching materials are available online with reserved grants access. If you
 
 Office hours: mainly Tuesday and Friday 12am-2pm (send me an email to schedule an **appointment**).
 
-![](./img/The_Cultural_Unification.jpg)  
+![](/images/The_Cultural_Unification.jpg){:width="400px"}  
 The Cultural Unification": Jeong-hwa Lee (artist)  
 
 Think about thinking, learn about learning
@@ -58,5 +58,5 @@ programming is like art ? Well there are many papers on this subject. Software e
 
 _
 
-![](./img/800px-Maquina.gif)An artistic representation of a [  
+![](/images/800px-Maquina.gif){:width="300px"}An artistic representation of a [  
 Turing Machine](http://plato.stanford.edu/entries/turing-machine/)

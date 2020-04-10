@@ -29,6 +29,8 @@ github_username:  hverjus
 
 # Build settings
 theme: minima
+#jekyll-text-theme
+
 plugins:
   - jekyll-feed
 

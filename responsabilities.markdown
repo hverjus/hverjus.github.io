@@ -1,6 +1,6 @@
 ---
 layout: page
-title: responsabilities
+title: Responsabilities
 permalink: /responsabilities/
 ---
 

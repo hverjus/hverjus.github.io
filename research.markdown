@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 ---
 I am a [LISTIC-Polytech Annecy-Chambéry Lab.](http://www.listic.univ-savoie.fr/) permanent staff member. Our works' topics include software architectures, architecture extraction and refactoring, distributed systems and SOA, multi-agent systems under angle of their **evolution**. The LISTIC lab. widely addresses information processing, fusion and engineering with special emphasis intelligent instrumentation, image processing, software engineering and software-based systems, industrial performance evaluation and industrial components. We are now promoting **_Services Sciences_** and are interested in _Cloud Computing_.  
