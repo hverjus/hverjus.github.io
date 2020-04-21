@@ -4,11 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-I am (and was) involved in several projects:
+I am (and was) involved in several projects and related topics:
+
+### Industry 4.0 (LISTIC and IAE 2019-present)
+
+We are developping multi-disciplinary approach that addresses industry 4.0 digital transformation challenges.
 
 ### Smart Tourism (USMB-UPPA / 2019-2020)
 
-This is the second phase of the previous Tourism Itennerary project.
+This is the second phase of the previous Tourism Itinerary project.
 
 ### CIME (Interreg / 2018-2022)
 
