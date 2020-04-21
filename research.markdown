@@ -9,11 +9,9 @@ My research interests:
 *   Information fusion software systems for (human) decision-making under uncertainty
 *   Business Process Management and Agile Methods
 *   SOA and Services Sciences
-*   Software Architecture
+*   Software Architecture and Software Process Engineering
 *   Evolvable Information System architectures
 *   Model Driven Engineering
-*   Software Process Engineering
-*   COTS-based systems and EAI architectures
 
 ### Information fusion software systems for (human) decision-making under uncertainty
 
