@@ -6,9 +6,9 @@ permalink: /projects/
 
 I am (and was) involved in several projects and related topics:
 
-### Industry 4.0 (LISTIC-IAE / 2019-present)
+### Industry 4.0 (LISTIC-IREGE / 2019-present)
 
-We are developping multi-disciplinary approach that addresses industry 4.0 digital transformation challenges.
+We are developping multi-disciplinary approach that addresses some of the industry 4.0 digital transformation challenges.
 
 ### Smart Tourism (USMB-UPPA / 2019-2020)
 
