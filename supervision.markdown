@@ -6,7 +6,7 @@ permalink: /supervision/
 
 # Internship proposals
 
-*   **M1 MTII**: [follow the link](/slides/master-mtii1_internships.html)
+*   **M1 MTII**: [follow the link](/doc/slides/master-mtii1_internships.html)
 
 # Postdoc Supervision
 
