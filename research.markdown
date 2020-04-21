@@ -3,17 +3,29 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I am a [LISTIC-Polytech Annecy-Chambéry Lab.](http://www.listic.univ-savoie.fr/) permanent staff member. Our works' topics include software architectures, architecture extraction and refactoring, distributed systems and SOA, multi-agent systems under angle of their **evolution**. The LISTIC lab. widely addresses information processing, fusion and engineering with special emphasis intelligent instrumentation, image processing, software engineering and software-based systems, industrial performance evaluation and industrial components. We are now promoting **_Services Sciences_** and are interested in _Cloud Computing_.  
+I am a [LISTIC-Polytech Annecy-Chambéry Lab.](http://www.listic.univ-smb.fr/) permanent staff member.
 
-My research interests:<lu class="bold">*   Information fusion software systems for (human) decision-making under uncertainty*   Business Process Management and Business Process Management Systems*   SOA and Web services-based systems*   Software Architecture*   Evolvable Information System architectures*   Model Driven Engineering*   Software Process Engineering*   COTS-based systems and EAI architectures</lu>  
+My research interests:
+*   Information fusion software systems for (human) decision-making under uncertainty
+*   Business Process Management and Agile Methods
+*   SOA and Services Sciences
+*   Software Architecture
+*   Evolvable Information System architectures
+*   Model Driven Engineering
+*   Software Process Engineering
+*   COTS-based systems and EAI architectures
 
 ### Information fusion software systems for (human) decision-making under uncertainty
 
-Recently, we are targeting software-intensive information fusion systems that assist human in the decision-making. We design software information fusion applications that deal with uncertain contexts such as environmental and outdoor situations.
+Recently, we are targeting software-intensive information fusion systems that assist human in the decision-making. We design software information fusion applications that deal with uncertain contexts such as environmental and outdoor situations. In such software intensive systems, we develop models that are based and enact uncertain information representation methods, information agregation methods, decision-aiding methods.
+
+### Business Process Management (BPM)
+
+We are interested in business process engineering with a special emphasis on evolvable and agile business processes (flexible, adaptable processes). In such non-determinist context, methods are required in response to unplanned events, unanticipated situations. The BPM problematic and related challenges embrace several domains such as business and management, computer science, data sciences, information science, industrial engineering.
 
 ### Services Oriented Architectures (SOA)
 
-How can we design, enact and monitor evolvable SOAs? Our work aims at providing an engineering environment for designing and enacting SOAs. Our approach is an architecture-centric formal approach. We provide a layered language formally based on pi-calculus and a SOA dedicated language (our first layered and SOA-domain specific language was called pi-Diapason - the new one is called PXL and introduced the timed pi-calculus) that allows an SOA expert to formalize Web Services orchestrations using a high level and powerful services orchestration specific language (the pi-calculus layer is hidden to the end user). An SOA designed using our language can be then deployed as a new Web service that also can be re-used "as is" in another SOA. The PXL language focuses on Web services orchestration by supporting most of the well-known orchestration patterns. As SOAs are formally designed, they can be verified against structural, behavioural (i.e. composition/orchestration) specific properties. We are aiming at studying domain-specific properties and QoS that could be expressed in our properties definition language, Diapason*, and then verified. Once verified, orchestration is executed with a PXL interpreter (avoiding to transform the design to another language - i.e. BPEL4WS, etc.). The engineering environment (called Diapason) integrates some tools for designing, enacting and checking SOAs. As PXL is based on pi-calculus, it provides mechanisms in order to support orchestration dynamic evolution. An evolution expressed in PXL is made "on the fly" because PXL interpreter integrates mechanisms in order to support orchestration state consistency while dynamic evolution. PXL has a XML concrete notation and is defined with XML Schemas. Contact us for more information.
+How can we design, enact and monitor evolvable SOAs? Our work aims at providing an engineering environment for designing and enacting SOAs. Our approach is an architecture-centric formal approach. We provide a layered language formally based on pi-calculus and a SOA dedicated language (our first layered and SOA-domain specific language was called pi-Diapason - the new one is called PXL and introduced the timed pi-calculus) that allows an SOA expert to formalize Web Services orchestrations using a high level and powerful services orchestration specific language (the pi-calculus layer is hidden to the end user). An SOA designed using our language can be then deployed as a new Web service that also can be re-used "as is" in another SOA. The PXL language focuses on Web services orchestration by supporting most of the well-known orchestration patterns. As SOAs are formally designed, they can be verified against structural, behavioural (i.e. composition/orchestration) specific properties. We are aiming at studying domain-specific properties and QoS that could be expressed in our properties definition language, Diapason*, and then verified. Once verified, orchestration is executed with a PXL interpreter (avoiding to transform the design to another language - i.e. BPEL4WS, etc.). The engineering environment (called Diapason) integrates some tools for designing, enacting and checking SOAs. As PXL is based on pi-calculus, it provides mechanisms in order to support orchestration dynamic evolution. An evolution expressed in PXL is made "on the fly" because PXL interpreter integrates mechanisms in order to support orchestration state consistency while dynamic evolution. PXL has a XML concrete notation and is defined with XML Schemas. We are now promoting **_Services Sciences_**. Contact us for more information.
 
 ### Software Architecture
 
@@ -34,9 +46,9 @@ Most of my publications are referenced:
 
 I am (or was) a member of:<lu>*   CNRS GDR GPL, Research Working Groups RIMEL and COSMAL.*   the board of the french Digital League (past name "Cluster Edit"):an Auvergne Rhône-Alpes french consortium grouping all the Auvergne Rhône-Alpes software companies, and I am also involved in the R&D and innovation board.*   the french GDR I3 (Information, Interaction, Intelligence), Working Group on Web Services - NRS STIC department. The working group topics covered web services modelling and web semantic, services discovery and services composition (this group is now closed).*   the ERCIM Workging Group on Software Evolution.*   the European ESPRIT Working Group 21185 - PROMOTER 2 (Process Modelling Techniques / 1998-2001).</lu>
 
-I am (or was) in the following International Conference Program Committees: I3E, BIS, ICEBE, CBI, CEC, ICIM, ISWT.
+I am (or was) regularly in the following International Conference Program Committees: BSCT, INFORSID, CBI, I3E, BIS, ICEBE, CEC.
 
-I am (or was) a reviewer for _Journal Software: Practice and Experience (Wiley)_, _JSS (Journal of Systems and Software)_, ICSM 2006 and 2007, _MODELS/UML 2006 and 2007_, _CAL'06_, _ICSM'06_, _SPW/Prosim 2006_, _CMSR 2006_, _ICSM 2005_, _UML/MODELS 2005_, WRCE 2005\.
+I am (or was) a reviewer for _Journal Software: Practice and Experience (Wiley)_, _JSS (Journal of Systems and Software)_, _MODELS_, _CAL_, _ICSM_, _SPW/Prosim_, _CMSR_, _ICSM_, _ISWT_, WRCE\.
 
 I was a program committee member of the IEEE Software (special issue entitled "Realizing Service Centric Software Systems"), _Journées Composants 2006_ in France and the _"Conception des systèmes d'information et services web" Workshop_ (co-located with _INFORSID 2006_ - Tunisia).
 
