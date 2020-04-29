@@ -23,6 +23,20 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+
+		<style>
+			.red {
+				color: red !important;
+  			text-decoration: line-through;
+			}
+			.orange {
+				color: orange !important;
+			}
+			.green {
+				color: green !important;
+			}
+		</style>
+
 	</head>
 	<body>
 		<div class="reveal">
@@ -47,7 +61,17 @@
 
 				<section>
 					<h1></h1>
-					<h2>Développement d'une application front-end javascript de l'application de gestion de tâches Taskwarrior</h2>
+					<h2>Codes et couleurs utilisés dans les sujets</h2>
+					<ul style=" display: block">
+						<li>les sujets dont le <i class="red">titre est barré et de couleur rouge</i> sont des sujets déjà affectés à des étudiants et ne sont plus disponibles;</li>
+						<li>les sujets dont le <i class="orange">titre est de couleur orange</i> sont des sujets en partie affectés à des étudiants mais peuvent faire l'objet d'un second projet;</li>
+						<li>les sujets dont le <i class="green">titre est de couleur verte</i> sont des sujets disponibles.</li>
+					</ul>
+				</section>
+
+				<section>
+					<h1></h1>
+					<h2 class="green">Développement d'une application front-end javascript de l'application de gestion de tâches Taskwarrior</h2>
 					<p>Contexte du projet: IAE</p>
 					<p>Lieu(x): à distance + IAE SMB</p>
 					<p>Encadrant(s), supervision: Hervé Verjus</p>
@@ -63,7 +87,7 @@
 
 				<section>
 					<h1></h1>
-					<h2>Découverte du développement d'une application mobile Android avec Kotlin</h2>
+					<h2 class="red">Découverte du développement d'une application mobile Android avec Kotlin</h2>
 					<p>Contexte du projet: IAE</p>
 					<p>Lieu(x): à distance + IAE SMB</p>
 					<p>Encadrant(s), supervision: Hervé Verjus</p>
@@ -80,7 +104,7 @@
 
 				<section>
 					<h1></h1>
-					<h2>Environnement de modélisation de scénarios de réalité virtuelle pour la formation</h2>
+					<h2 class="orange">Environnement de modélisation de scénarios de réalité virtuelle pour la formation</h2>
 					<p>Contexte du projet: IAE et entreprises industrielles</p>
 					<p>Lieu(x): à distance + IAE SMB</p>
 					<p>Encadrant(s), supervision: Hervé Verjus</p>
@@ -88,7 +112,7 @@
 					<ul style=" display: block">
 						<li>faire un état de l'art, une analyse comparative et une synthèse des logiciels et plateformes de réalité virtuelle et de réalité augmentée (ex. Inscape VTS, Openspace3D,...) permettant de réaliser des scénarios de formation de personnels en entreprise;</li>
 						<li>faire un état de l'art, une analyse comparative et une synthèse des matériels et équipements nécessaires (casquettes, lunettes de RV, manettes, gants,...);</li>
-						<li>choix d'un logiciel ou plateforme (gratuit-e) et prise en main (auto-formation) de ce logiciel, plateforme;<>
+						<li>choix d'un logiciel ou plateforme (gratuit-e) et prise en main (auto-formation) de ce logiciel, plateforme;</li>
 						<li>rédaction de 2 scénarios illustratifs (1 dans le domaine de l'industrie et 1 dans le domaine de l'enseignement);</li>
 						<li>réalisation, modélisation des 2 scénarios avec le logiciel ou plateforme.</li>
 						<li>rédaction d'un rapport de synthèse.</li>
@@ -97,11 +121,11 @@
 
 				<section>
 					<h1></h1>
-					<h2>Découverte du développement d'une application mobile de réalité augmentée Android</h2>
+					<h2 class="red">Découverte du développement d'une application mobile de réalité augmentée Android</h2>
 					<p>Contexte du projet: IAE et entreprises</p>
 					<p>Lieu(x): à distance + IAE SMB</p>
 					<p>Encadrant(s), supervision: Hervé Verjus</p>
-					<p>Missions (1 étudiant-e):</p>
+					<p>Missions (1 ou 2 étudiant-e-s):</p>
 					<ul style=" display: block">
 						<li>faire un état de l'art, une analyse comparative et une synthèse des langages, frameworks, logiciels et plateformes permettant de réaliser des applications de réalité augmentée sous Android;</li>
 						<li>choisir un environnement gratuit (langages, plateformes,...) permettant le développement d'une application de réalité augmentée sous Android;</li>
@@ -112,7 +136,59 @@
 					</ul>
 				</section>
 
+				<section>
+					<h1></h1>
+					<h2 class="green">Allez plus loin avec Java !</h2>
+					<p>Contexte du projet: IAE</p>
+					<p>Lieu(x): à distance + IAE SMB</p>
+					<p>Encadrant(s), supervision: Hervé Verjus</p>
+					<p>Missions (1 étudiant-e):</p>
+					<ul style=" display: block">
+						<li>s'auto-former (lecture d'ouvrages, tutos en ligne, MOOC,...) aux autres aspects et spécificités du langage Java (generics, proxy, lambdas, traits, inner class,...);</li>
+						<li>réaliser un cours en ligne (essentiellement des supports en ligne: vidéos et présentations) qui seraient mis à disposition en auto-formation à des étudiants ayant suivi les cours Java de l'année de M1 MTII et qui s'inscrirait dans la suite de ce cours.</li>
+					</ul>
+				</section>
 
+				<section>
+					<h1></h1>
+					<h2 class="green">Allez plus loin avec Javascript !</h2>
+					<p>Contexte du projet: IAE</p>
+					<p>Lieu(x): à distance + IAE SMB</p>
+					<p>Encadrant(s), supervision: Hervé Verjus</p>
+					<p>Missions (1 étudiant-e):</p>
+					<ul style=" display: block">
+						<li>s'auto-former (lecture d'ouvrages, tutos en ligne, MOOC,...) au langage Javascript et en découvrir les différents aspects (fonctionnel, objet, prototypage et héritage, appel de fonction asynchrone, lambda, closure, premises,...);</li>
+						<li>réaliser un cours en ligne (essentiellement des supports en ligne: vidéos et présentations) qui seraient mis à disposition en auto-formation à des étudiants ayant suivi les cours technologies Web de l'année de M1 MTII.</li>
+					</ul>
+				</section>
+
+				<section>
+					<h1></h1>
+					<h2 class="green">Systèmes distribués et COVID-19</h2>
+					<p>Contexte du projet: IAE</p>
+					<p>Lieu(x): à distance + IAE SMB</p>
+					<p>Encadrant(s), supervision: Hervé Verjus</p>
+					<p>Missions (1 à 2 étudiant-e-s):</p>
+					<ul style=" display: block">
+						<li>s'auto-former (lecture d'ouvrages, tutos en ligne, MOOC,...) aux architectures et technologies;</li>
+						<li>mener une étude bibliographique (principalement) sur les architectures et technologies de systèmes distribués;</li>
+						<li>réaliser un document état de l'art sur ces architectures, technologies, comment elles sont mises en oeuvre et utilisées, quelles sont les questions qui se posent et les défis qu'il reste à traiter;</li>
+						<li>en partant de l'exemple du protocole ROBERT proposé récemment, quel système distribué pourrait-on envisager ayant un rôle dans la prévention ou le suivi ou la détection de l'épidémie de COVID-19 ?</li>
+					</ul>
+				</section>
+
+				<section>
+					<h1></h1>
+					<h2 class="green">Systèmes distribués et Industrie 4.0</h2>
+					<p>Contexte du projet: IAE</p>
+					<p>Lieu(x): à distance + IAE SMB</p>
+					<p>Encadrant(s), supervision: Hervé Verjus</p>
+					<p>Missions (1 étudiant-e):</p>
+					<ul style=" display: block">
+						<li>mener une étude bibliographique (principalement) sur les architectures et technologies de systèmes distribués dans le cadre de l'industrie 4.0;</li>
+						<li>réaliser un document état de l'art sur ces architectures, technologies, comment elles sont mises en oeuvre et utilisées dans le cadre de l'industrie 4.0, quelles sont les questions qui se posent et les défis qu'il reste à traiter.</li>
+					</ul>
+				</section>
 
 
 			</div>
