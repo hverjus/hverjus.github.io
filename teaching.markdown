@@ -6,9 +6,10 @@ permalink: /teaching/
 
 My lectures mainly concern the following curricula:
 
-*   University Institute of Technology - R&T Dept. (two-year undergraduate diploma)
-*   IAE Bachelor of Economics and Management (Information System curricula - BS. Degree)
-*   IAE Master of Management and Information System (MSI MSc. Degree)
+*   IAE Bachelor in Economics and Management (SNGI curricula - BS. Degree)
+*   IAE Bachelor in Hospitality Industry (LP GREH curricula - BS. Degree)
+*   IAE Master in Management (IME curricula - MSc. Degree)
+*   IAE Master in Management (API curricula - MSc. Degree)
 
 ...and in the following fields of expertise:
 
@@ -19,14 +20,13 @@ My lectures mainly concern the following curricula:
 
 The courses I teach (as instructor leader or co-instructor) are the following:
 
-*   [Object oriented programming in Java](./programmationJava.php) (IUT R&T, Univ. Savoie Mont Blanc)
-*   [Introduction to algorithms and programming - aka. Informatique 1](./informatique1.php) (IAE IS Bachelor degree, Univ. Savoie Mont Blanc)
-*   [Object oriented design and programming - aka. Informatique 2](./informatique2.php) (IAE IS Bachelor degree, Univ. Savoie Mont Blanc)
-*   Information system design and engineering (IAE MIS MSc. degree, Univ. Savoie Mont Blanc)
-*   Mobile application technologies (IAE MIS MSc. degree, Univ. Savoie Mont Blanc)
-*   Distributed or service-based information system architectures (IAE MIS MSc. degree, Univ. Savoie Mont Blanc)
-*   Information system security (IAE MIS MSc. degree, Univ. Savoie Mont Blanc)
-*   Research approach and methodology (IAE MIS MSc. degree, Univ. Savoie Mont Blanc)
+*   Object oriented programming and design
+*   Introduction to algorithms and programming
+*   Functional programming 
+*   Information system design and engineering 
+*   Mobile application technologies 
+*   Distributed information system 
+*   Research approach and methodology 
 
 Some teaching materials are available online with reserved grants access. If you have suggestions, I really appreciate your feedbacks, comments...Don't hesitate !
 
