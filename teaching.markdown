@@ -29,6 +29,8 @@ The courses I teach (as instructor leader or co-instructor) are the following:
 
 Some teaching materials are available online with reserved grants access. If you have suggestions, I really appreciate your feedbacks, comments...Don't hesitate !
 
+[Some requirements and instructions about the online learning platform (Moodle)](https://hverjus.github.io/teaching/moodle-instructions).
+
 Office hours: mainly Tuesday and Friday 12am-2pm (send me an email to schedule an **appointment**).
 
 ![](/images/The_Cultural_Unification.jpg){:width="400px"}  
