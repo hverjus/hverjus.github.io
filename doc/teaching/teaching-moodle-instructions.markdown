@@ -3,9 +3,9 @@ layout: page
 permalink: /teaching/moodle-instructions
 ---
 
-Consignes, supports en ligne, logiciels utilisés...
+##Consignes, supports en ligne, logiciels utilisés...
 
-## Formats des supports mis à disposition sur la plateforme
+### Formats des supports mis à disposition sur la plateforme
 
 Vous pourrez trouver des supports, liens, dans différents formats.
 
@@ -21,19 +21,19 @@ Vous touverez sur l'espace Moodle de la matière des documents, liens éventuels
 Bon visionnage et bon travail !
 
 
-## Consignes pour la remise de travaux sur la plateforme
+### Consignes pour la remise de travaux sur la plateforme Moodle
 
-Sauf consignes particulières, les devoirs sont à remettre sous la forme d'un SEUL FICHIER **.zip** qui contient **tout** et que vous déposerez sur Moodle. 
+Sauf consignes particulières, les devoirs sont à remettre sous la forme d'un SEUL FICHIER **.zip** qui contiendra **tout votre travail** et que vous déposerez sur Moodle. 
 
-Aucun autre format que le format zip du fichier ne sera accepté. Le nom du fichier zip doit contenir l'identité de chaque étudiant ayant contribué à la réalisation du travail.
+**Aucun autre format que le format zip du fichier ne sera accepté.** Le nom du fichier zip doit contenir l'identité de chaque étudiant ayant contribué à la réalisation du travail.
 
 Exemple: *HerveVerjus_GuyLiguili.zip*
 
-Chaque fichier inclus dans le fichier zip devra mentionné l'identité de chaque étudiant ayant contribué à la réalisation du document (en première page du document, dans les commentaires du code, etc.). On doit pouvoir lire l'identité de tous les étudiants ayant contribué à la réalisation du travail rapidement et dans tout fichier, tout document, remis.
+Chaque document inclus dans le fichier zip devra mentionné l'identité de chaque étudiant ayant contribué à la réalisation du document (en première page ou en entête du document, dans les commentaires du code, etc.). On doit pouvoir lire l'identité de tous les étudiants ayant contribué à la réalisation du travail rapidement et dans tous les fichiers, tout document remis.
 
-Si je vous demande de déposer vos devoirs sur Moodle ce n'est pas pour me les envoyer par mel: les devoirs que je recevrai par mel ne seront pas pris en compte. Et pas d'excuse du genre: *"mon mel ne marche pas. La taille du fichier est trop grande, etc."*
+Si je vous demande de déposer vos devoirs sur Moodle ce n'est ni pour me les envoyer par mel ni les déposer sur des espaces de téléchargement et m'envoyer une URL ! Non, non et non: les devoirs que je recevrai par mel ou déposés ailleurs que sur Moodle **ne seront pas pris en compte**. Et pas d'excuse du genre: *"mon mel ne marche pas. La taille du fichier est trop grande, etc."*
 
-## Vous trouverez les logiciels dont vous pourriez avoir besoin ici:
+### Vous trouverez les logiciels dont vous pourriez avoir besoin ici (se connecter avec vos identifiants USMB):
 
 <https://espaces-collaboratifs.grenet.fr/share/page/site/usmbpartageetu/documentlibrary#filter=path%7C%2Fsoftware%7C&page=1>
 
