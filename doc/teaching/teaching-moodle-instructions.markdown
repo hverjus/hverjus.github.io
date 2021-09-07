@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moodle, consignes, supports en ligne, devoirs - Logiciels utilisés
+title: Consignes Moodle et logiciels
 permalink: /teaching/moodle-instructions
 nav_exclude: true
 
