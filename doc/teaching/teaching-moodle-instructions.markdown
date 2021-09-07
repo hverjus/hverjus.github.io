@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consignes, supports en ligne, logiciels utilisés
+title: Moodle: consignes, supports en ligne, devoirs - Logiciels utilisés
 permalink: /teaching/moodle-instructions
 nav_exclude: true
 
@@ -30,7 +30,7 @@ Sauf consignes particulières, les devoirs sont à remettre sous la forme d'un S
 
 Exemple: *HerveVerjus_GuyLiguili.zip*
 
-Chaque document inclus dans le fichier zip devra mentionné l'identité de chaque étudiant ayant contribué à la réalisation du document (en première page ou en entête du document, dans les commentaires du code, etc.). On doit pouvoir lire l'identité de tous les étudiants ayant contribué à la réalisation du travail rapidement et dans tous les fichiers, tout document remis.
+Chaque document inclus dans le fichier zip devra mentionner l'identité de chaque étudiant ayant contribué à la réalisation du document (en première page ou en entête du document, dans les commentaires du code, etc.). On doit pouvoir lire l'identité de tous les étudiants ayant contribué à la réalisation du travail rapidement et dans tous les fichiers, tout document remis.
 
 Si je vous demande de déposer vos devoirs sur Moodle ce n'est ni pour me les envoyer par mel ni les déposer sur des espaces de téléchargement et m'envoyer une URL ! Non, non et non: les devoirs que je recevrai par mel ou déposés ailleurs que sur Moodle **ne seront pas pris en compte**. Et pas d'excuse du genre: *"mon mel ne marche pas. La taille du fichier est trop grande, etc."*
 
