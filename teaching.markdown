@@ -21,10 +21,9 @@ My lectures mainly concern the following curricula:
 The courses I teach (as instructor leader or co-instructor) are the following:
 
 *   Object oriented programming and design
-*   Introduction to algorithms and programming
+*   Algorithms and programming
 *   Functional programming 
 *   Information system design and engineering 
-*   Mobile application technologies 
 *   Distributed information systems 
 *   Research approach and methodology 
 
