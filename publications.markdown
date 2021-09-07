@@ -3,11 +3,15 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-The list of publications below is **no more up to date**. Please, refer now to:
+### Publications from 2014 to Present
 
 *   * [on the USMB HAL open archives](http://hal.univ-smb.fr/search/index/q/verjus/docType_s/ART+OR+COMM+OR+COUV+OR+OTHER+OR+OUV+OR+DOUV+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR+OR+LECTURE/submitType_s/file+OR+notice/sort/producedDate_tdate+desc/).
 *   * [HAL](http://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=herve%20VERJUS&typdoc=%28%27ART_ACL%27,%27COMM_ACT%27,%27OUVS%27,%27COVS%27%29&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css)
 *   * [Google Schoolar](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=herve+verjus&btnG=)
+
+### Publications before 2014
+
+The list of publications below is **no more up to date**. 
 
 #### Refereed Articles in International Journals
 

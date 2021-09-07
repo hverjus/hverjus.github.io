@@ -6,6 +6,10 @@ permalink: /projects/
 
 I am (and was) involved in several projects and related topics:
 
+### DEDICATED, NORMAL (USMB / 2019-2021)
+
+We address distributed and federated learning system and infrastructure.
+
 ### Industry 4.0 (LISTIC-IREGE / 2019-present)
 
 We are developping multi-disciplinary approach that addresses some of the industry 4.0 digital transformation challenges.
