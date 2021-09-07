@@ -1,11 +1,10 @@
 ---
 layout: page
+title: Consignes, supports en ligne, logiciels utilisés
 permalink: /teaching/moodle-instructions
 nav_exclude: true
-exclude: true
----
 
-## Consignes, supports en ligne, logiciels utilisés...
+---
 
 ### Formats des supports mis à disposition sur la plateforme
 
