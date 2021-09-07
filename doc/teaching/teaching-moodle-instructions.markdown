@@ -1,6 +1,6 @@
 ---
 layout: page
-
+permalink: /teaching/moodle-instructions
 ---
 
 Consignes, supports en ligne, logiciels utilisés...
