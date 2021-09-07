@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/moodle-instructions
 ---
 
-##Consignes, supports en ligne, logiciels utilisés...
+## Consignes, supports en ligne, logiciels utilisés...
 
 ### Formats des supports mis à disposition sur la plateforme
 
