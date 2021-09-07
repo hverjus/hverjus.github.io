@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/moodle-instructions
 nav_exclude: true
+exclude: true
 ---
 
 ## Consignes, supports en ligne, logiciels utilisés...
