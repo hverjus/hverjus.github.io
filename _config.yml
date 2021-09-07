@@ -28,7 +28,7 @@ twitter_username: herveverjus
 github_username:  hverjus
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 #jekyll-text-theme
 
 plugins:
