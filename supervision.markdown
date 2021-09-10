@@ -43,6 +43,7 @@ permalink: /supervision/
 
 # MS. Thesis Supervision / MS. Internship Supervision
 
+*   **Khadija Echarrafi** (2021) - _Agilité des processus 4.0 : Approche par compétence_ (Grenoble INP - LISTIC and G-SCOP Labs.).
 *   **Fanny Pagnier** (2019) - _Méthodes pour l'estimation du risque d'avalanche_ (Université Savoie Mont-Blanc - LISTIC Lab.).
 *   **Rami Jridi** (2014) - _Développement d'une application mobile Android &eagrave; base de méthodes de fusion d'information_ (University of Savoie - LISTIC Lab.).
 *   **Céline Lim and Sarah Ait Haddou Mouloud** (2014) - _Développement d'un logiciel de mise en oeuvre de la méthode SEMAT_ (University of Savoie - LISTIC Lab.).

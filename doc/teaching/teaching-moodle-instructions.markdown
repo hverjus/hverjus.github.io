@@ -5,6 +5,11 @@ permalink: /teaching/moodle-instructions
 nav_exclude: true
 
 ---
+### Supports de cours *or not* support de cours, *that's the question*
+
+Dans le cadre de certains enseignements, le format pédagogique choisi ne s'accompagne pas de support structuré de cours en ligne car le contenu des séances fluctue, varie d'une séance à l'autre en fonction du ressenti et du dégré d'hétérogénéité, de la vitesse et capacité de progression du public d'étudiant-e-s.
+
+Qu'il y ait des supports en ligne ou non, la prise de notes est indispensable de toute façon.
 
 ### Formats des supports mis à disposition sur la plateforme
 
@@ -19,12 +24,11 @@ Vous touverez sur l'espace Moodle de la matière des documents, liens éventuels
 *   parce que cela vous évitera d'imprimer tous les supports que vous ne lirez de toute façon pas ou pas en totalité (!);
 *   imprimer c'est du papier, mais aussi de l'encre, des fluides et de l'énergie.
 
-Bon visionnage et bon travail !
 
 
 ### Consignes pour la remise de travaux sur la plateforme Moodle
 
-Sauf consignes particulières, les devoirs sont à remettre sous la forme d'un SEUL FICHIER **.zip** qui contiendra **tout votre travail** et que vous déposerez sur Moodle. 
+Sauf consignes particulières, les devoirs sont à remettre sous la forme d'un SEUL FICHIER **.zip** qui contiendra **tout votre travail** et que vous déposerez sur Moodle.
 
 **Aucun autre format que le format zip du fichier ne sera accepté.** Le nom du fichier zip doit contenir l'identité de chaque étudiant ayant contribué à la réalisation du travail.
 
@@ -40,6 +44,3 @@ Si je vous demande de déposer vos devoirs sur Moodle ce n'est ni pour me les en
 
 
 Prenez connaissance des supports, documents, vidéos, liens,...mis à disposition sur la plateforme !
-
-
-
