@@ -3,6 +3,7 @@ layout: page
 title: Responsabilities
 permalink: /responsabilities/
 ---
+I am the curricula co-director and co-responsible (with Romain Gandia) of the IAE Savoie Mont Blanc University School of Management Master Degree in *Computer Science and Enterprise Management* (in french *[Master Informatique et Management d'Entreprise - IME](https://formations-iae.univ-smb.fr/fr/toute-l-offre-de-formation/master-XB/master-management-KGYPN5A6//informatique-et-management-d-entreprise-KGYUCXOL.html)*) (from 2021 to present).
 
 I was vice-dean (directeur adjoint) of the [IAE Savoie Mont Blanc University School of Management](http://www.iae.univ-savoie.fr/) (from 2013 to 2018).
 
