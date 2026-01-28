@@ -38,9 +38,3 @@ Chaque document inclus dans le fichier zip devra mentionner l'identité de chaqu
 
 Si je vous demande de déposer vos devoirs sur Moodle ce n'est ni pour me les envoyer par mel ni les déposer sur des espaces de téléchargement et m'envoyer une URL ! Non, non et non: les devoirs que je recevrai par mel ou déposés ailleurs que sur Moodle **ne seront pas pris en compte**. Et pas d'excuse du genre: *"mon mel ne marche pas. La taille du fichier est trop grande, etc."*
 
-### Vous trouverez les logiciels dont vous pourriez avoir besoin ici (se connecter avec vos identifiants USMB):
-
-<https://espaces-collaboratifs.grenet.fr/share/page/site/usmbpartageetu/documentlibrary#filter=path%7C%2Fsoftware%7C&page=1>
-
-
-Prenez connaissance des supports, documents, vidéos, liens,...mis à disposition sur la plateforme !
